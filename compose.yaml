@@ -1,0 +1,7 @@
+services:
+  discovery:
+    build: .
+    ports:
+      - "127.0.0.1:8001:8001"
+    environment:
+      MODEL_MODE: demo
