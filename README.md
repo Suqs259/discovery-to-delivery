@@ -4,6 +4,14 @@
 
 与 [FieldDesk Copilot](https://github.com/Suqs259/fielddesk-copilot) 的售后 RAG 场景形成互补：本项目关注客户发现和交付范围定义。
 
+## 使用效果与攻略
+
+[完整中文使用攻略](docs/usage-guide.md)：安装启动、推荐演示流程、结果解读、真实模型配置及常见问题。
+
+以下为实际运行截图，使用虚构示例数据与演示模式。
+
+![客户访谈分析、需求证据和交付建议](docs/screenshots/analysis-result.jpg)
+
 ## Run
 
 Python 3.10+：
